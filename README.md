@@ -3,7 +3,7 @@ Simple Barcode Generator using php-barcode-generator from  picqer
 
 # Tipe Kode Barcode yang tersedia
 
-|                                                               |
+|                 Code                                             |
 |---------------------------------------------------------------|
 | Code 128                                            | 
 | Code 128 A                                        |
@@ -15,7 +15,7 @@ Simple Barcode Generator using php-barcode-generator from  picqer
 | EAN 13                                      |
 
 # Fitur
-|                                                               |   |
+|           Feature                                                    | Desc.  |
 |---------------------------------------------------------------|---|
 | Print to PDF                                              | ✔ |
 | Download as image (.png)                                         | ✔ |
