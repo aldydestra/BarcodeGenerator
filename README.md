@@ -1,7 +1,7 @@
 # BarcodeGenerator
 Simple Barcode Generator using php-barcode-generator from  picqer
 
-# Tipe Kode Barcode yang tersedia
+# Available Barcode Types
 
 |                 Code                                             |
 |---------------------------------------------------------------|
@@ -14,13 +14,13 @@ Simple Barcode Generator using php-barcode-generator from  picqer
 | EAN 8                                   |
 | EAN 13                                      |
 
-# Fitur
+# Features
 |           Feature                                                    | Desc.  |
 |---------------------------------------------------------------|---|
 | Print to PDF                                              | ✔ |
 | Download as image (.png)                                         | ✔ |
 
-# Kredit
+# Credit
 
  Picqer/barcode PHP Library
  ```bash
